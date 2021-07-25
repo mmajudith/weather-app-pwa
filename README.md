@@ -12,4 +12,4 @@ Technologies Used:
 - React
 - CSS
 - Axios
-- Service Worker
+- Progressive Web App (PWA)
